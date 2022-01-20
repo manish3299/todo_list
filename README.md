@@ -1,3 +1,3 @@
 # Todo-list
 TODO list made using Javascript, HTML And CSS
-todo_list.github.io
+Do Visit https://manish3299.github.io/todo_list/
